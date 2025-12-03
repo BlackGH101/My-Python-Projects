@@ -16,3 +16,5 @@ def num_of_days(month, year):
 
 
 print(num_of_days(2, 2016))
+
+print(num_of_days(6, 2016))
